@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2P2023PM01</string>
+    <string name="btnmostrar">Mostrar Datos</string>
+    <string name="btninsertar">Agregar</string>
+</resources>
